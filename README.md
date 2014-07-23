@@ -1,7 +1,7 @@
 ==================================================================
 Analysis of Human Activity Recognition Using Smartphones Dataset
-Version 1.0
 ==================================================================
+Version 1.0
 
 run_analysis.R is the R script which to collect, work with, and clean UCI HAR Dataset. 
 It is to prepare tidy data that can be used for later analysis. 
