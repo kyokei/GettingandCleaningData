@@ -4,7 +4,7 @@ DATA DICTIONARY - 2014 Human Activity Recognition Using Smartphones Dataset
 NOTE: Each row value is the average of each variable for each activity and each subject. 
 
 Subject        1  
-    Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+* Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 Activity    20  
 * activity name  
